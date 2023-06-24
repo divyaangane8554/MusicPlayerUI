@@ -1,2 +1,2 @@
 # MusicPlayer
-Music Player By Charan B
+Music Player By Divya A
